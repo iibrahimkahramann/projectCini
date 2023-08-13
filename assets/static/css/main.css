@@ -72,7 +72,7 @@ header{
 
 .logo{
 	width:180px !important;
-	margin-top:35px;
+	margin-top:60px;
 }
 
 
@@ -1284,7 +1284,10 @@ h1.projTitle span {
 	margin-bottom:40px;
 }
 
-
+.logoc{
+	width: 150px;
+	scroll-margin-left: 500px;
+}
 
 .contactInfo h1 {
 	font-size:18px;
